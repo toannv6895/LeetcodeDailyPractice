@@ -1,0 +1,14 @@
+﻿Cả 2 giải pháp đều là biến tướng của kĩ thuật 2 con trỏ.
+Đó là dùng 1 vòng lặp for (con trỏ 1) và 1 con trỏ thủ công (con trỏ 2).
+Như đề cập ở giải pháp trước, để có thể kiểm tra 1 dữ liệu có trùng lặp hay không, thì ta sẽ add dữ liệu khi lặp vào
+1 trong các loại data như Hashtable, Dictionary, String.
+Điểm tra biệt là ở kỹ thuật trước, ta sẽ loại bỏ đoạn dữ liệu từ đầu đến chỗ bị trùng để tiếp tục công việc thêm dữ liệu và đếm.
+Còn ở giải pháp này, thì ta sẽ dựa vào phương thức gán value vào 1 key của Dictionary.
+ví dụ:
+var dic = new Dictionary<char, int>();
+dic[key] = value;
+với cách gán dữ liệu này, dictionary sẽ thêm mới nếu chưa có và sẽ thay thế giá trị cũ nếu key đã tồn tại trước đó.
+Do vậy, ta luôn cập nhật được value mới nhất.
+Dựa vào đặc điểm này, ta có thể chỉ cần cập nhật sao cho con trỏ thứ 2 là index lớn của giá trị trùng lặp + 1.
+Sau đó, lấy con trỏ 1 - con trỏ 2 + 1 thì ta sẽ có được giá trị hiện tại.
+Tiếp tục so sánh với giá trị max đang có để cập nhật max nếu cần thiết.

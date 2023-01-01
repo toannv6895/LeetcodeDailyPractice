@@ -1,0 +1,10 @@
+﻿[a,b,c,d,b,a] => input
+[0,1,2,3,4,5] => index
+Ý tưởng ban đầu là dùng 2 con trỏ, nhưng làm thế nào để khi có dữ liệu trùng, ta sẽ xóa dữ liệu từ đầu đến dữ liệu bị trùng đó để có 
+1 danh sách mới?
+Ví dụ: khi i = 4, sẽ bị trùng với i = 1. Trước đó, để có thể kiểm tra dữ liệu trùng ta đã phải dùng 1 loại data nào đó để lưu trữ, chẳng hạn
+như Hashtable, Dictionary. Nhưng nếu dùng 2 loại dữ liệu trên thì có cách nào để rơi vào trường hợp này, thì ta sẽ xóa dữ liệu từ 0->1.
+Để dữ liệu từ [a,b,c,d] => [c,d].
+Trong tường hợp này, ta có String có phương thức Contains giống như Hashtabe và Dictionary, đồng thời, nó có thể dùng Substring để
+có thể đáp ứng được trường hợp trên.
+StringBuilder được dùng để tăng hiệu suất, không bắt buộc.
