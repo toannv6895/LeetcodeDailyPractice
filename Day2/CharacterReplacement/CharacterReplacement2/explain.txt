@@ -1,0 +1,9 @@
+﻿Ý tưởng của solution này là dựa trên kĩ thuật 2 con trỏ/ slide window và công thức: end - start + 1 - maxCount
+Trong đó, maxCount là số lần suất hiện của 1 kí tự nào đó trong chuỗi. Ta có thể dùng int[] hoặc Dictionary<char,int>
+để lưu trữ số lần xuất hiện tương ứng của từng kí tự.
+maxCount này phải tương ứng trong từng thời điểm của start và end pointer. Ví dụ như khi start = 0, end = 3 thì
+count của A = 2, count của B = 1 => maxCount = 2 ("ABAB").
+3 (start) - 0 (end) + 1 - 2 (mãCount) <= 2 (k)
+Nếu rơi vào trường hợp mà end - start + 1 - maxCount > k, 
+thì khi đó ta sẽ bắt đầu tăng start lên 1 đơn vị, đồng thời khi đó 1 char bên trái ngoài cùng sẽ nằm ngoài silde window, vì vậy
+ta cần trừ đi 1 count của char left khỏi arr.
