@@ -1,0 +1,8 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.exe.config
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day3\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.pdb
