@@ -1,0 +1,8 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\bin\Debug\ValidPalindrome.exe.config
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\bin\Debug\ValidPalindrome.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\bin\Debug\ValidPalindrome.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day4\ValidPalindrome\ValidPalindrome\obj\Debug\ValidPalindrome.pdb
