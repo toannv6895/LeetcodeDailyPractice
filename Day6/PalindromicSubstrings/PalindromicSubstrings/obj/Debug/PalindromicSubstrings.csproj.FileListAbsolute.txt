@@ -1,0 +1,8 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.exe.config
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day6\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.pdb
