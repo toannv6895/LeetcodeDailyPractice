@@ -1,0 +1,12 @@
+﻿Khi làm dạng bài node remove hoặc merge, ta nên làm:
+1. Tạo 1 result: ListNode result = new ListNode(0);
+2. Tạo 1 tempotary node được gán giá trị default ở trên: ListNode temp = result;
+3. Nhận giá trị next cho temp node là node head đầu vào: temp.next = head;
+4. Xử lý thao tác dữ liệu trên temp node
+5. Trả về kết quả result.next node
+----------------
+Khi muốn remove 1 node, 
+1. ta cần tạo 1 temp node để nhận giá trị next của hiện tại (giá trị mà ta muốn xóa)
+tempnext = temp?.next;
+2. Gán next của giá trị hiện tại bằng next của giá next đó
+temp.next = tempnext?.next
