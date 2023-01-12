@@ -1,0 +1,15 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\bin\Debug\net6.0\MergekSortedLists.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\bin\Debug\net6.0\MergekSortedLists.deps.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\bin\Debug\net6.0\MergekSortedLists.runtimeconfig.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\bin\Debug\net6.0\MergekSortedLists.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\bin\Debug\net6.0\MergekSortedLists.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.AssemblyInfoInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.AssemblyInfo.cs
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\refint\MergekSortedLists.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\MergekSortedLists.genruntimeconfig.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day12\MergekSortedLists\MergekSortedLists\obj\Debug\net6.0\ref\MergekSortedLists.dll

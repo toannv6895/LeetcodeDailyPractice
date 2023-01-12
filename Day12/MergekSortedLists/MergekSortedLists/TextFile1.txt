@@ -1,0 +1,1 @@
+﻿Ý tưởng ở đây là đẩy hết tất cả vào PriorityQueue, sau đó lại lấy từng giá trị ra từ PriorityQueue để đẩy vào 1 node mới
