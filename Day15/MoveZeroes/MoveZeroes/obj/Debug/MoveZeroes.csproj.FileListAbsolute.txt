@@ -1,0 +1,8 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\bin\Debug\MoveZeroes.exe.config
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\bin\Debug\MoveZeroes.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\bin\Debug\MoveZeroes.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day15\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.pdb
