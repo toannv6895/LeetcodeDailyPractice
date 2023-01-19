@@ -1,0 +1,19 @@
+﻿Ta có 3 trường hợp khác nhau, bao gồm:
+TH 1: if (mid > 0 && nums[mid] < nums[mid - 1])
+Ví dụ: { 4, 5, 1, 2, 3 }
+Nếu khi middle { = 1} chính là giá trị cần tìm, thì khi đó 1 < 5. Vì đây là array đã được sắp xếp, vì vậy nếu
+mid < mid - 1 thì khi đó mid - 1 chính là cực đại của array đã được sắp xếp trước đó, và mid chính là cực tiểu của 1 dãy array được sắp
+xếp mới khác
+TH 2: (nums[mid] >= nums[left] && nums[mid] > nums[right])
+Ví dụ:
+{ 4, 5, 6, 7, 0, 1, 2 }
+ [          ] [     ]
+Khi đó, left luôn luôn nhỏ hơn mid nếu như đang trong 1 dãy tăng, nếu mid > right thì tức là ta đang đứng ở vị trí của dãy tăng thứ nhất,
+và còn 1 array được sắp xếp thứ 2 với ác số nhở hơn khiến cho right < mid.
+
+TH 3:
+Ví dụ:
+{ 7, 8, 1, 2, 3, 4, 5, 6 }
+{ 11, 13, 15, 17 }
+Nếu không xảy ra trường hợp 2, tức là array chỉ được sắp xếp theo 1 chu kì tăng duy nhất từ nhỏ -> lớn hoặc là đang đứng ở dãy tăng thứ 2.
+Vì vậy ta chỉ cần đi từ bên phải quay người trở về bên trái để tìm ra số nhỏ nhất
