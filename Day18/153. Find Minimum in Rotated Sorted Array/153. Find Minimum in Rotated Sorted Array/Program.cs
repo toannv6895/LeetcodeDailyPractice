@@ -51,13 +51,13 @@ namespace _153.Find_Minimum_in_Rotated_Sorted_Array
                 {
                     return nums[mid];
                 }
-                else if (nums[mid] >= nums[left] && nums[mid] > nums[right])
+                else if (nums[mid] > nums[right])
                 {
                     left = mid + 1;
                 }
                 else
                 {
-                    right= mid - 1;
+                    right= mid;
                 }
             }
 
