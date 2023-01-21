@@ -25,8 +25,8 @@ namespace _15._3Sum
 
         public static IList<IList<int>> ThreeSum(int[] nums)
         {
+            Dictionary<int, int> map = new Dictionary<int, int>();
             IList<IList<int>> result = new List<IList<int>>();
-            Dictionary<string, IList<int>> map = new Dictionary<string, IList<int>>();
 
             Array.Sort<int>(nums);
 
@@ -40,7 +40,12 @@ namespace _15._3Sum
                 {
                     if (nums[left] + nums[right] == findSum)
                     {
-                        map[$"{nums[i]},{nums[left]},{nums[right]}"] = new int[] { nums[i], nums[left], nums[right] };
+                        if (!map.ContainsKey(nums[left]) || map[nums[left]] != nums[right])
+                        {
+                            result.Add(new int[] { nums[i], nums[left], nums[right] });
+                        }
+
+                        map[nums[left]] = nums[right];
 
                         while (left < right && nums[left] == nums[left + 1])
                         {
@@ -55,7 +60,7 @@ namespace _15._3Sum
                         left++;
                         right--;
                     }
-                    else if (nums[left] + nums[right] > 0)
+                    else if (nums[left] + nums[right] > findSum)
                     {
                         right--;
                     }
@@ -64,11 +69,6 @@ namespace _15._3Sum
                         left++;
                     }
                 }
-            }
-
-            foreach (var item in map.Values)
-            {
-                result.Add(item);
             }
 
             return result;

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{747C7FDE-6D82-4EF5-A471-2BD0AC868DBB}</ProjectGuid>
+    <ProjectGuid>{871B50A2-78F7-44B4-8193-868F5DEFDF02}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProductofArrayExceptSelf</RootNamespace>
-    <AssemblyName>ProductofArrayExceptSelf</AssemblyName>
+    <RootNamespace>LongestPalindrome2</RootNamespace>
+    <AssemblyName>LongestPalindrome2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,9 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
