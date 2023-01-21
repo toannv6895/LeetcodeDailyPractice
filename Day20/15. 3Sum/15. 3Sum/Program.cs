@@ -11,6 +11,7 @@ namespace _15._3Sum
         static void Main(string[] args)
         {
             int[] nums = { -1, 0, 1, 2, -1, -4 };
+            //int[] nums = { 0, 0, 0, 0 };
 
             var result = ThreeSum(nums);
 
@@ -25,7 +26,7 @@ namespace _15._3Sum
         public static IList<IList<int>> ThreeSum(int[] nums)
         {
             IList<IList<int>> result = new List<IList<int>>();
-            Dictionary<string, IList<int>> result0 = new Dictionary<string, IList<int>>();
+            Dictionary<string, IList<int>> map = new Dictionary<string, IList<int>>();
 
             Array.Sort<int>(nums);
 
@@ -33,18 +34,28 @@ namespace _15._3Sum
             {
                 int left = i + 1;
                 int right = nums.Length - 1;
+                int findSum = 0 - nums[i];
 
                 while (left < right)
                 {
-                    int curr = nums[left] + nums[right] + nums[i];
-
-                    if (curr == 0)
+                    if (nums[left] + nums[right] == findSum)
                     {
-                        //result.Add(new int[] { nums[i], nums[left], nums[right] });
-                        result0[$"{nums[i]},{nums[left]},{nums[right]}"] = new int[] { nums[i], nums[left], nums[right] };
+                        map[$"{nums[i]},{nums[left]},{nums[right]}"] = new int[] { nums[i], nums[left], nums[right] };
+
+                        while (left < right && nums[left] == nums[left + 1])
+                        {
+                            left++;
+                        }
+
+                        while (left < right && nums[right] == nums[right - 1])
+                        {
+                            right--;
+                        }
+
                         left++;
+                        right--;
                     }
-                    else if (curr > 0)
+                    else if (nums[left] + nums[right] > 0)
                     {
                         right--;
                     }
@@ -55,7 +66,7 @@ namespace _15._3Sum
                 }
             }
 
-            foreach (var item in result0.Values)
+            foreach (var item in map.Values)
             {
                 result.Add(item);
             }
