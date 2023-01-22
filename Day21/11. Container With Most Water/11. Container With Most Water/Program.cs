@@ -18,9 +18,8 @@ namespace _11.Container_With_Most_Water
 
         public static int MaxArea(int[] height)
         {
-            int n = height.Length;
             int left = 0;
-            int right = n - 1;
+            int right = height.Length - 1;
             int maxLeft = height[left];
             int maxRight = height[right];
             int max = (right - left) * Math.Min(height[left], height[right]);
