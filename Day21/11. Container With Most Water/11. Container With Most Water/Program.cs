@@ -21,7 +21,9 @@ namespace _11.Container_With_Most_Water
             int n = height.Length;
             int left = 0;
             int right = n - 1;
-            int max = 0;
+            int maxLeft = height[left];
+            int maxRight = height[right];
+            int max = (right - left) * Math.Min(height[left], height[right]);
 
             if (height == null || height.Length < 2)
             {
@@ -30,8 +32,6 @@ namespace _11.Container_With_Most_Water
 
             while (left < right)
             {
-                max = Math.Max(max, (right - left) * Math.Min(height[left], height[right]));
-
                 if (height[left] < height[right])
                 {
                     left++;
@@ -39,6 +39,17 @@ namespace _11.Container_With_Most_Water
                 else
                 {
                     right--;
+                }
+
+                if (maxLeft < height[left])
+                {
+                    max = Math.Max(max, (right - left) * Math.Min(height[left], height[right]));
+                    maxLeft = height[left];
+                }
+                else if (maxRight < height[right])
+                {
+                    max = Math.Max(max, (right - left) * Math.Min(height[left], height[right]));
+                    maxRight = height[right];
                 }
             }
 
