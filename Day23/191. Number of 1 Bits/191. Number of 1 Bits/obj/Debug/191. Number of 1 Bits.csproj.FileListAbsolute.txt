@@ -1,0 +1,8 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\bin\Debug\_191.Number_of_1_Bits.exe.config
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\bin\Debug\_191.Number_of_1_Bits.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\bin\Debug\_191.Number_of_1_Bits.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\obj\Debug\191. Number of 1 Bits.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\obj\Debug\191. Number of 1 Bits.csproj.SuggestedBindingRedirects.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\obj\Debug\191. Number of 1 Bits.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\obj\Debug\_191.Number_of_1_Bits.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day22\191. Number of 1 Bits\191. Number of 1 Bits\obj\Debug\_191.Number_of_1_Bits.pdb
