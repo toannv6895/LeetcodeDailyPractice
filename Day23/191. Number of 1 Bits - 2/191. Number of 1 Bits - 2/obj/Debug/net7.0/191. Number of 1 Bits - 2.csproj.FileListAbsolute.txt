@@ -1,0 +1,15 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\bin\Debug\net7.0\191. Number of 1 Bits - 2.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\bin\Debug\net7.0\191. Number of 1 Bits - 2.deps.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\bin\Debug\net7.0\191. Number of 1 Bits - 2.runtimeconfig.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\bin\Debug\net7.0\191. Number of 1 Bits - 2.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\bin\Debug\net7.0\191. Number of 1 Bits - 2.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.AssemblyInfoInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.AssemblyInfo.cs
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\refint\191. Number of 1 Bits - 2.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\191. Number of 1 Bits - 2.genruntimeconfig.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day23\191. Number of 1 Bits - 2\191. Number of 1 Bits - 2\obj\Debug\net7.0\ref\191. Number of 1 Bits - 2.dll
