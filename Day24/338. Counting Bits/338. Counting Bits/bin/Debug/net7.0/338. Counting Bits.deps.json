@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "338. Counting Bits/1.0.0": {
+        "runtime": {
+          "338. Counting Bits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "338. Counting Bits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
