@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{3168D4C2-7EBD-4FDC-AE4B-CA5B50D32631}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number 2", "268. Missing Number 2\268. Missing Number 2.csproj", "{359CB0BC-65CC-4129-9ADC-52057D0A152C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3168D4C2-7EBD-4FDC-AE4B-CA5B50D32631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3168D4C2-7EBD-4FDC-AE4B-CA5B50D32631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3168D4C2-7EBD-4FDC-AE4B-CA5B50D32631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359CB0BC-65CC-4129-9ADC-52057D0A152C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359CB0BC-65CC-4129-9ADC-52057D0A152C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359CB0BC-65CC-4129-9ADC-52057D0A152C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359CB0BC-65CC-4129-9ADC-52057D0A152C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
