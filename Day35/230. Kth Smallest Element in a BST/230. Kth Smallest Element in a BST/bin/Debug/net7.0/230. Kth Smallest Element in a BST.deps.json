@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "230. Kth Smallest Element in a BST/1.0.0": {
+        "runtime": {
+          "230. Kth Smallest Element in a BST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "230. Kth Smallest Element in a BST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
