@@ -1,0 +1,15 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\bin\Debug\net7.0\Day37.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\bin\Debug\net7.0\Day37.deps.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\bin\Debug\net7.0\Day37.runtimeconfig.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\bin\Debug\net7.0\Day37.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\bin\Debug\net7.0\Day37.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.AssemblyInfoInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.AssemblyInfo.cs
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\refint\Day37.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\Day37.genruntimeconfig.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day37\obj\Debug\net7.0\ref\Day37.dll
