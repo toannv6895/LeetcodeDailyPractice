@@ -1,0 +1,15 @@
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\bin\Debug\net7.0\208-implement-trie-prefix-tree.exe
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\bin\Debug\net7.0\208-implement-trie-prefix-tree.deps.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\bin\Debug\net7.0\208-implement-trie-prefix-tree.runtimeconfig.json
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\bin\Debug\net7.0\208-implement-trie-prefix-tree.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\bin\Debug\net7.0\208-implement-trie-prefix-tree.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.csproj.AssemblyReference.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.AssemblyInfoInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.AssemblyInfo.cs
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.csproj.CoreCompileInputs.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\refint\208-implement-trie-prefix-tree.dll
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.pdb
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\208-implement-trie-prefix-tree.genruntimeconfig.cache
+D:\Learn\Leetcode\LeetcodeDailyPractice\Day38\208-implement-trie-prefix-tree\obj\Debug\net7.0\ref\208-implement-trie-prefix-tree.dll
